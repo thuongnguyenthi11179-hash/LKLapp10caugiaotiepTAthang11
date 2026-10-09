@@ -1,0 +1,10 @@
+{
+  "name": "LKL10caugiaotiepTAthang11",
+  "description": "Hệ thống rèn luyện 10 câu giao tiếp Tiếng Anh Tháng 11 và theo dõi chuyên cần giáo viên theo Tổ sinh hoạt chuyên môn - Trường Tiểu học Lê Kim Lăng.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
